@@ -1,0 +1,29 @@
+q1 : (650,440,120,4)
+
+q2 : 27
+
+q3 : 30
+
+q4 : (59.52,83.7,93)
+
+q5 : (true , fales)
+
+q6 : error
+
+q7 : (batma) , (bane)
+
+q8 : number , funcition , undefined, object , object
+
+q9 : 
+
+q10 : anonumous , 18 , ,
+
+q11 : fales
+
+q12 : 2 , undefind
+
+q13 : Error , because there are no parentheses
+
+q14 :  50
+
+q15 : [john: 2, jack: 2]
